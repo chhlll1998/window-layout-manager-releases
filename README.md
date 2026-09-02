@@ -17,4 +17,4 @@ Windows 桌面工具：保存多个窗口的位置、显示器和启动方式，
 - 优化窗口设置的默认宽度、字段文字显示、按钮布局、窗口缩放和网址编辑焦点；
 - 优化主界面列表、布局管理、批量捕获、导入导出、窗口追踪和关闭确认流程。
 
-发布仓库：[window-layout-manager-releases](
+发布仓库：[window-layout-manager-releases]
